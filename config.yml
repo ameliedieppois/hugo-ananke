@@ -28,8 +28,8 @@ params:
   slack: ''
   stackoverflow: ''
   rss: ''
-  background_color_class: bg-black
+  background_color_class: pink
   featured_image: "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number: 2
 
-  body_classes: athelas;
+  body_classes: athelas
