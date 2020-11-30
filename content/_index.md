@@ -1,11 +1,11 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+title: Agrumes
+featured_image: "/images/bruna-branco-7r1hxvvc7ay-unsplash.jpg"
+description: 'Mélanges d''agrumes '
 menu:
   main:
     name: Accueil
     weight: 2
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Bonjour, voilà un joli mélanges d'agrumes
