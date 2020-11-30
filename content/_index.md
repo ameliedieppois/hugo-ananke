@@ -8,4 +8,4 @@ menu:
     weight: 2
 
 ---
-Bonjour, voilà un joli mélanges d'agrumes
+Bonjour, voilà un joli mélange d'agrumes
