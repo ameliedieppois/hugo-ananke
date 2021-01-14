@@ -15,7 +15,7 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: ''
-  site_logo: /images/pngegg.png 
+  site_logo: /images/pngegg.png
   description: The last theme you'll ever need. Maybe.
   facebook: ''
   twitter: https://twitter.com/GoHugoIO
@@ -28,7 +28,7 @@ params:
   slack: ''
   stackoverflow: ''
   rss: ''
-  background_color_class: bg-pink
+  background_color_class: bg-orange
   featured_image: "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number: 2
 
