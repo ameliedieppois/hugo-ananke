@@ -1,7 +1,7 @@
 ---
 date: 2020-12-01T16:25:05+00:00
 description: oranges
-featured_image: "/images/alice-pasqual-mrnv51_yqqk-unsplash.jpg"
+featured_image: /images/alice-pasqual-mrnv51_yqqk-unsplash.jpg
 tags: []
 title: Les Oranges
 disable_share: false

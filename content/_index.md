@@ -1,7 +1,7 @@
 ---
 title: Agrumes
-featured_image: "/images/bruna-branco-7r1hxvvc7ay-unsplash.jpg"
-description: 'Mélanges d''agrumes '
+featured_image: /images/bruna-branco-7r1hxvvc7ay-unsplash.jpg
+description: 'Mélanges d'agrumes '
 menu:
   main:
     name: Accueil
