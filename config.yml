@@ -15,7 +15,7 @@ sitemap:
   filename: sitemap.xml
 params:
   favicon: ''
-  site_logo: "/images/esmeralda.jpg"
+   site_logo: "/images/pngegg.png"
   description: Les agrumes
   facebook: ''
   twitter: https://twitter.com/GoHugoIO
